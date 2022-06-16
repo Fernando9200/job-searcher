@@ -36,7 +36,7 @@ export default defineComponent({
   setup(props) {
     const orderedJobs = computed(() => {
       return [...props.jobs].sort((a: Job, b: Job) => {
-        return a[props.order] > b[props.order] ? -1 : 1;
+        return a[props.order] > b[props.order] ? 1 : -1;
       });
     });
     return { orderedJobs };
