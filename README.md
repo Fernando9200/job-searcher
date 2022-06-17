@@ -1,5 +1,7 @@
 # jobs
 
+This is the project of an front-end application.
+
 ## Project setup
 ```
 npm install
