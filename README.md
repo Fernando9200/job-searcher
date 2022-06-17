@@ -1,6 +1,9 @@
-# jobs
+# Job Searcher
 
-This is the project of an front-end application.
+This is the project of an frontend design for a website that promotes IT positions available. The website is available in the link: https://job-searcher-front.netlify.app/
+
+To access the development environment, follow the instructions bellow.
+
 
 ## Project setup
 ```
@@ -22,6 +25,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# jobs
+
