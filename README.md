@@ -1,6 +1,6 @@
 # Job Searcher
 
-This is the project of an front-end design for a website that promotes IT positions available. The website is available in the link: https://job-searcher-front.netlify.app/
+This is the project of an front-end design for a website that promotes IT positions available. All the data is hard-coded in the application. The website is available in the link: https://job-searcher-front.netlify.app/
 
 To access the development environment, follow the instructions bellow.
 
